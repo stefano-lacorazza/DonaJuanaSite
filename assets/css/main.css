@@ -2227,7 +2227,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #2e3141;
+			background: #3766c0;
 		}
 
 		select:focus::-ms-value {
@@ -2315,7 +2315,7 @@ input, select, textarea {
 			background: #ffffff;
 			border-color: #ffffff;
 			content: '\f00c';
-			color: #2e3141;
+			color: #3766c0;
 		}
 
 		input[type="checkbox"]:focus + label:before,
@@ -3474,7 +3474,7 @@ input, select, textarea {
 
 			#banner {
 				padding: 7em 0 8.25em 0 ;
-				background-color: #2e3141;
+				background-color: #3766c0;
 				background-image: linear-gradient(to top, rgba(46, 49, 65, 0.3), rgba(46, 49, 65, 0.9)), url("../../images/bg.jpg");
 				background-size: auto,
  cover;
@@ -3586,7 +3586,7 @@ input, select, textarea {
 
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
-			background-color: #2e3141;
+			background-color: #3766c0;
 			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.3), rgba(46, 49, 65, 0.9)), url("../../images/bg.jpg");
 			background-size: auto,
  cover;
@@ -3634,21 +3634,21 @@ input, select, textarea {
 	}
 
 	.wrapper {
-		background-color: #2e3141;
+		background-color: #3766c0;
 		margin: 6.5em 0;
 		position: relative;
 	}
 
 		.wrapper:before, .wrapper:after {
-			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%232e3141%3B' /%3E%3C/svg%3E");
+			background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cpolygon points='0,100 100,0 100,100' style='fill:%233766c0%3B' /%3E%3C/svg%3E");
 		}
 
 		.wrapper:before {
-			box-shadow: inset 0 -1px 0 0 #2e3141, 0 1px 0 0 #2e3141;
+			box-shadow: inset 0 -1px 0 0 #3766c0, 0 1px 0 0 #3766c0;
 		}
 
 		.wrapper:after {
-			box-shadow: inset 0 -1px 0 0 #2e3141, 0 1px 0 0 #2e3141;
+			box-shadow: inset 0 -1px 0 0 #3766c0, 0 1px 0 0 #3766c0;
 		}
 
 		.wrapper:before, .wrapper:after {
@@ -4079,7 +4079,7 @@ input, select, textarea {
 	@media screen and (max-width: 1280px) {
 
 		#footer {
-			background-color: #2e3141;
+			background-color: #3766c0;
 			background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("../../images/bg.jpg");
 			background-size: auto,
  cover;
