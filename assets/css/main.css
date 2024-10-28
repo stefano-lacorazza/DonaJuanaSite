@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #2e3141;
+		background-color: #3766c0;
 		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.3), rgba(46, 49, 65, 0.9)), url("../../images/bg.jpg");
 		background-size: auto,
  cover;
@@ -3076,7 +3076,7 @@ input, select, textarea {
 		-webkit-transition: background-color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out;
-		background-color: rgba(53, 56, 73, 0.95);
+		background-color: rgba(55,102,192,255);
 		height: 3.5em;
 		left: 0;
 		line-height: 3.5em;
@@ -3085,6 +3085,7 @@ input, select, textarea {
 		top: 0;
 		width: 100%;
 		z-index: 10000;
+
 	}
 
 		#header h1 {
@@ -3097,6 +3098,7 @@ input, select, textarea {
 			margin-bottom: 0;
 			opacity: 1;
 			visibility: visible;
+			color: #fbe66b;
 		}
 
 			#header h1 a {
