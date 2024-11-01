@@ -3388,6 +3388,7 @@ input, select, textarea {
 			width: 55em;
 			display: flex;
 			align-items: baseline;
+			color: #ffffff;
 		}
 
 		#banner .logo {
@@ -3466,7 +3467,7 @@ input, select, textarea {
 			letter-spacing: 0.1em;
 			line-height: 2;
 			text-transform: uppercase;
-			color: #fee366;
+			color: white;
 			font-weight: bold;
 		}
 
